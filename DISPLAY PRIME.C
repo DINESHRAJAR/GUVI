@@ -3,7 +3,7 @@
 void main()
 {
     int low, high, i, flag;
-    printf("Enter two numbers(intervals): ");
+    printf("Enter two numbers(intervel)");
     scanf("%d %d", &low, &high);
 
     printf("Prime numbers between %d and %d are: ", low, high);
@@ -25,7 +25,4 @@ void main()
             printf("%d ", low);
 
         ++low;
-    }
-
-    return 0;
-}
+    }}
