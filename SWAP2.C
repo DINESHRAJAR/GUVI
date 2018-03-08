@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include<conio.h>
 void swap(int*, int *);
 void main()
 {
